@@ -44,3 +44,13 @@ sudo chmod +x /usr/local/bin/apktool /usr/local/bin/apktool.jar
 ```
 apktool -version
 ```
+
+---
+
+## How to use 
+- Type this after installation complete to see how to use
+<br>
+
+```
+apktool --help
+```
