@@ -8,10 +8,12 @@ sudo apt update && sudo apt install default-jre -y
 ```
 
 
-3. Download the latest Apktool jar file
+3. Download the latest Apktool jar file and wrapper script
 <br>
 
 ```
+curl -O https://raw.githubusercontent.com/jonjeexe/apktool/refs/heads/main/apktool
+
 wget https://github.com/jonjeexe/apktool/releases/download/v3.0.2/apktool_3.0.2.jar
 ```
 
