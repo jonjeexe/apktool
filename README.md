@@ -17,6 +17,7 @@ wget https://github.com/jonjeexe/apktool/releases/download/v3.0.2/apktool_3.0.2.
 
 <br>
 3. Rename the jar file to standard naming format
+
 ```
 mv apktool_3.0.2.jar apktool.jar
 ```
