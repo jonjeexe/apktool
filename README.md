@@ -1,4 +1,4 @@
-## Installation of apktool
+## Installation of apktool for bash supported os
 
 1. Install Java dependency
 <br>
