@@ -1,4 +1,4 @@
-## Installation apktool
+## Installation of apktool
 
 1. Install Java dependency
 <br>
