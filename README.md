@@ -53,3 +53,8 @@ apktool -version
 ```
 apktool --help
 ```
+
+---
+
+## Use Jadx for Java reference of dalvik byte code
+ 
