@@ -57,4 +57,32 @@ apktool --help
 ---
 
 ## Use Jadx for Java reference of dalvik byte code
+<br>
+
+1. Download Jadx
+
+```
+wget https://github.com/jonjeexe/apktool/releases/download/v3.0.2/jadx-1.5.0.zip && unzip jadx-1.5.0.zip -d jadx
+```
+
+<br>
+
+2. Enter bin dir
+
+```
+cd jadx/bin
+```
+
+<br>
+
+3. Cmd to use
+
+```
+./jadx -d ~/output_folder /path/to/file
+```
+
+### Support Format
+- .apk
+- .dex
+- .smile
  
