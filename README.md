@@ -72,6 +72,12 @@ wget https://github.com/jonjeexe/apktool/releases/download/v3.0.2/jadx-1.5.0.zip
 ```
 cd jadx/bin
 ```
+<br>
+or set as a variable in prompt
+
+```
+export PATH=$PATH:~/jadx/bin
+```
 
 <br>
 
